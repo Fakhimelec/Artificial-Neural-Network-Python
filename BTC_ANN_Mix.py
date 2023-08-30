@@ -263,7 +263,7 @@ class Network:
 # Index[0] Is The Oldest Price And Index[1440] Is The Latest Price (Now's Price) And 'time' Index Is The Last 19271 Day's Data
 # The Data Corresponds To 60 Days In Time Steps Of Seconds But In Free Version We Can't Accuire More Acurate Data Than Minute TimeStep
 
-currency = 'JPY'
+currency = 'BTC'
 
 print('TimeStamps Are Like These: Min, Hou or Day')
 while True :
